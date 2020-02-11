@@ -1,0 +1,14 @@
+Sort:,Season:,Farming Level:,Fertilizer Level:,Days Planted:,% Normal,% Silver,% Gold,,,,,,,,,,,,
+Av. Profit/Day,Spring,0,None,28,97%,2%,1%,,,,,,,,,,,,
+Crop Name,Buy Price,Min. Sell Price,Av. Sell Price,Maturity Time,Regrowth Time,Min. Profit/Crop,Av. Profit/Crop,Min. Profit/Day,Av. Profit/Day,,Buy Price,Min. Sell Price,Av. Sell Price,Maturity Time,Regrowth Time,Min. Profit/Crop,Av. Profit/Crop,Min. Profit/Day,Av. Profit/Day
+Strawberry,100,120,121.2,8,4,620,627.2,22.14285714,22.4,Blue Jazz,30,50,50.5,7,x,20,20.5,2.857142857,2.928571429
+Rhubarb,100,220,222.2,13,x,120,122.2,9.230769231,9.4,Cauliflower,80,175,176.75,12,x,95,96.75,7.916666667,8.0625
+Cauliflower,80,175,176.75,12,x,95,96.75,7.916666667,8.0625,Coffee Bean*,2500,60,60.6,10,2,-1900,-1894,-67.85714286,-67.64285714
+Green Bean,60,40,40.4,10,3,220,222.8,7.857142857,7.957142857,Garlic,40,60,60.6,4,x,20,20.6,5,5.15
+Potato*,50,96,96.96,6,x,46,46.96,7.666666667,7.826666667,Green Bean,60,40,40.4,10,3,220,222.8,7.857142857,7.957142857
+Kale,70,110,111.1,6,x,40,41.1,6.666666667,6.85,Kale,70,110,111.1,6,x,40,41.1,6.666666667,6.85
+Garlic,40,60,60.6,4,x,20,20.6,5,5.15,Parsnip,20,35,35.35,4,x,15,15.35,3.75,3.8375
+Parsnip,20,35,35.35,4,x,15,15.35,3.75,3.8375,Potato*,50,96,96.96,6,x,46,46.96,7.666666667,7.826666667
+Blue Jazz,30,50,50.5,7,x,20,20.5,2.857142857,2.928571429,Rhubarb,100,220,222.2,13,x,120,122.2,9.230769231,9.4
+Tulip,20,30,30.3,6,x,10,10.3,1.666666667,1.716666667,Strawberry,100,120,121.2,8,4,620,627.2,22.14285714,22.4
+Coffee Bean*,2500,60,60.6,10,2,-1900,-1894,-67.85714286,-67.64285714,Tulip,20,30,30.3,6,x,10,10.3,1.666666667,1.716666667

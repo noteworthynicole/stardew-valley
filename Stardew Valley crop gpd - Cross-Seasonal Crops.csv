@@ -1,0 +1,20 @@
+Custom Values,Values,,,,,,,
+"Agriculturalist (0 If Not, 1 If Yes)",0,,,,,,,
+Farming Level,0,,,,Crop Quality,No Fertilizer,Basic Fertilizer,Quality Fertilizer
+"Tiller Profession (0 If Not, 1 If Yes)",0,,,,Gold Quality Prob,"0,01","0,04","0,08"
+Number of Days,28,,,,Silver Quality Prob,"0,02","0,08","0,14"
+"Tapper Profession (0 If Not, 1 If Yes)",0,,,,Normal Quality Prob,"0,97","0,87","0,78"
+"Bought Fertilizer (0 If Not, 1 If Yes)",0,,,,Total Price Bonus %,"101,00","104,24","107,37"
+"Old Fertilizer (1 If New, 0 If Reused from last season)",0,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Single Crops,Seed Price,Growth Days,Sell Price,Normal,Speed-Gro,Deluxe Speed-Gro,Basic Fertilizer,Quality Fertilizer
+Sunflower,0,8,80,"8,66","8,66","11,54","8,93","9,20"
+Wheat,10,4,25,"3,25","4,87","4,87","3,35","3,45"
+,,,,,,,,
+Multiple Crops,Seed Price,Growth Days,Sell Price,Normal,Speed-Gro,Deluxe Speed-Gro,Basic Fertilizer,Quality Fertilizer
+Coffee Bean,15,13,60,"16,78","18,94","21,11","17,33","17,87"
+Corn,150,14,50,"1,86","1,86","3,66","2,09","2,31"
+Ancient Seed,225,28,550,"-8,04","11,80","11,80","-8,04","-8,04"
+Cactus,150,12,75,"10,87","10,87","13,58","11,40","11,90"

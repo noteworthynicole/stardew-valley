@@ -1,0 +1,40 @@
+Dish,Cooked,Key,,,Dish,Ingredient #1,Ingredient #2,Ingredient #3,Ingredient #4,Cooked,,Dish,Ingredient #1,Ingredient #2,Ingredient #3,Ingredient #4,Cooked,,Item,# Required,Item,# Required
+Algae Soup,,Blue,Bundle,,Algae Soup,Green Algae x4,,,,No,,Miner's Treat,Cave Carrot x2,Sugar,Milk,,No,,Amaranth,1,Milk,12
+Artichoke Dip,,Green,Yes,,Artichoke Dip,Artichoke,Milk,,,No,,Omelet,Egg,Milk,,,No,,Any Fish,2,Morel,1
+Autumn's Bounty,,Red,No,,Autumn's Bounty,Yam,Pumpkin,,,No,,Pale Broth,White Algae x2,,,,No,,Apple,1,Mussel,1
+Baked Fish,,,,,Baked Fish,Sunfish,Bream,Wheat Flour,,No,,Pancakes,Wheat Flour,Egg,,,No,,Apricot,1,Oil,12
+Bean Hotpot,,,,,Bean Hotpot,Green Bean x2,,,,No,,Parsnip Soup,Parsnip,Milk,Vinegar,,No,,Artichoke,2,Parsnip,2
+Blackberry Cobbler,,Dish,Cooked,,Blackberry Cobbler,Blackberry x2,Sugar,Wheat Flour,,No,,Pepper Poppers,Hot Pepper,Cheese,,,No,,Blackberry,0,Periwinkle,2
+Blueberry Tart,,Miner's Treat,,,Blueberry Tart,Blueberry,Wheat Flour,Sugar,Egg,No,,Pink Cake,Melon,Wheat Flour,Sugar,Egg,No,,Blue Jazz,1,Poppy,1
+Bread,,Omelet,,,Bread,Wheat Flour,,,,No,,Pizza,Wheat Flour,Tomato,Cheese,,No,,Blueberry,2,Potato,3
+Bruschetta,,Pale Broth,,,Bruschetta,Bread,Oil,Tomato,,No,,Plum Pudding,Wild Plum,Wheat Flour,Sugar,,No,,Bok Choy,1,Pumpkin,3
+Carp Surprise,,Pancakes,,,Carp Surprise,Carp x4,,,,No,,Poppyseed Muffin,Poppy,Wheat Flour,Sugar,,No,,Bream,1,Radish,2
+Cheese Cauliflower,,Parsnip Soup,,,Cheese Cauliflower,Cauliflower,Cheese,,,No,,Pumpkin Pie,Pumpkin,Wheat Flour,Milk,Sugar,No,,Carp,0,Rainbow Trout,1
+Chocolate Cake,,Pepper Poppers,,,Chocolate Cake,Wheat Flour,Sugar,Egg,,No,,Pumpkin Soup,Pumpkin,Milk,,,No,,Cauliflower,1,Red Cabbage,3
+Chowder,,Pink Cake,,,Chowder,Clam,Milk,,,No,,Radish Salad,Oil,Vinegar,Radish,,No,,Cave Carrot,3,Rhubarb,1
+Coleslaw,,Pizza,,,Coleslaw,Red Cabbage,Vinegar,Mayonnaise,,No,,Red Plate,Red Cabbage,Radish,,,No,,Cheese,3,Rice,2
+Complete Breakfast,,Plum Pudding,,,Complete Breakfast,Fried Egg,Milk,Hashbrowns,Pancakes,No,,Rhubarb Pie,Rhubarb,Wheat Flour,Sugar,,No,,Clam,1,Salmon,1
+Cookie,,Poppyseed Muffin,,,Cookie,Wheat Flour,Sugar,Egg,,No,,Rice Pudding,Milk,Sugar,Rice,,No,,Coconut,1,Sardine,0
+Crab Cakes,,Pumpkin Pie,,,Crab Cakes,Crab,Wheat Flour,Egg,Oil,No,,Roasted Hazelnuts,Hazelnut,Hazelnut,Hazelnut,,No,,Common Mushroom,3,Sea Cucumber,1
+Cranberry Candy,,Pumpkin Soup,,,Cranberry Candy,Cranberries,Apple,Sugar,,No,,Roots Platter,Cave Carrot,Winter Root,,,No,,Corn,3,Seaweed,1
+Cranberry Sauce,,Radish Salad,,,Cranberry Sauce,Cranberries,Sugar,,,No,,Salad,Leek,Dandelion,Vinegar,,No,,Crab,1,Shrimp,1
+Crispy Bass,,Red Plate,,,Crispy Bass,Largemouth Bass,Wheat Flour,Oil,,No,,Salmon Dinner,Salmon,Amaranth,Kale,,No,,Cranberries,4,Snail,1
+Dish o' The Sea,,Rhubarb Pie,,,Dish o' The Sea,Sardine x2,Hashbrowns,,,No,,Sashimi,Any Fish,,,,No,,Crayfish,1,Squid,1
+Eggplant Parmesan,,Rice Pudding,,,Eggplant Parmesan,Eggplant,Tomato,,,No,,Spaghetti,Wheat Flour,Tomato,,,No,,Dandelion,1,Sugar,16
+Escargot,,Roasted Hazelnuts,,,Escargot,Snail,Garlic,,,No,,Spicy Eel,Eel,Hot Pepper,,,No,,Eel,2,Sunfish,1
+Farmer's Lunch,,Roots Platter,,,Farmer's Lunch,Omelet,Parsnip,,,No,,Stir Fry,Common Mushroom,Cave Carrot,Kale,Oil,No,,Egg,11,Tomato,6
+Fiddle Risotto,,Salad,,,Fiddle Risotto,Fiddlehead Fern,Oil,Garlic,,No,,Strange Bun,Void Mayonnaise,Wheat Flour,Periwinkle,,No,,Beet,1,Tomato,6
+Fish Stew,,Salmon Dinner,,,Fish Stew,Crayfish,Mussel,Periwinkle,Tomato,No,,Stuffing,Bread,Cranberries,Hazelnut,,No,,Eggplant,2,Tuna,1
+Fish Taco,,Sashimi,,,Fish Taco,Tuna,Tortilla,Red Cabbage,Mayonnaise,No,,Super Meal,Bok Choy,Cranberries,Artichoke,,No,,Fiddlehead Fern,1,Vinegar,4
+Fried Calamari,,Spaghetti,,,Fried Calamari,Squid,Wheat Flour,Oil,,No,,Survival Burger,Bread,Cave Carrot,Eggplant,,No,,Garlic,2,Void Mayonnaise,1
+Fried Eel,,Spicy Eel,,,Fried Eel,Eel,Oil,,,No,,Tom Kha Soup,Common Mushroom,Coconut,Shrimp,,No,,Green Algae,1,Wheat Flour,23
+Fried Egg,,Stir Fry,,,Fried Egg,Egg,,,,No,,Tortilla,Corn,,,,No,,Green Bean,0,White Algae,0
+Fried Mushroom,,Strange Bun,,,Fried Mushroom,Common Mushroom,Morel,Oil,,No,,Trout Soup,Rainbow Trout,Green Algae,,,No,,Hazelnut,4,Wild Plum,1
+Fruit Salad,,Stuffing,,,Fruit Salad,Blueberry,Melon,Apricot,,No,,Vegetable Medley,Tomato,Beet,,,No,,Hot Pepper,2,Winter Root,1
+Glazed Yams,,Super Meal,,,Glazed Yams,Yam,Sugar,,,No,,,,,,,,,Kale,2,Yam,2
+Hashbrowns,,Survival Burger,,,Hashbrowns,Potato,Oil,,,No,,,,,,,,,Largemouth Bass,1,,
+Ice Cream,,Tom Kha Soup,,,Ice Cream,Milk,Sugar,,,No,,,,,,,,,Leek,1,,
+Lobster Bisque,,Tortilla,,,Lobster Bisque,Lobster ,Milk,,,No,,,,,,,,,Lobster ,1,,
+Lucky Lunch,,Trout Soup,,,Lucky Lunch,Sea Cucumber,Tortilla,Blue Jazz,,No,,,,,,,,,Maple Syrup,1,,
+Maki Roll,,Vegetable Medley,,,Maki Roll,Any Fish,Seaweed,Rice,,No,,,,,,,,,Mayonnaise,2,,
+Maple Bar,,Total Count,0,,Maple Bar,Maple Syrup,Sugar,Wheat Flour,,No,,,,,,,,,Melon,2,,

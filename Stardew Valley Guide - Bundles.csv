@@ -1,0 +1,71 @@
+,PANTRY,,,,,CRAFTS ROOM,,,,,FISH TANK,,,,,BULLETIN BOARD,,,,,VAULT,,,,,BOILER ROOM,,,
+,Reward: Greenhouse,,,FALSE,,Reward: Bridge repair (Quarry),,,FALSE,,Reward: Glittering boulder removed,,,FALSE,,Reward: Friendship,,,FALSE,,Reward: Bus repaired / Calico Desert,,,FALSE,,Reward: Minecarts,,,FALSE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,CHEF (Gus),,,FALSE,,,,,,,,,,
+,,,,,,,,,,,,,,,,Name,,Source,Complete,,"2,500",,,FALSE,,,,,
+,,,,,,,,,,,,,,,,,Maple Syrup,Tapped Maple Tree,FALSE,,Name,,Source,Complete,,BLACKSMITH,,,FALSE
+,SPRING CROPS,,,FALSE,,,,,,,,,,,,,Fiddlehead Fern,Summer Foraging in Secret Woods,FALSE,,,"2,500g",Purchase,FALSE,,Name,,Source,Complete
+,Name,,Source,Complete,,,,,,,RIVER FISH,,,FALSE,,,Truffle,Pigs,FALSE,,Reward: Chocolate Cake (3),,,,,,Copper bar,Smelting Copper ore in the Furnace,FALSE
+,,Parsnip,Spring crops,FALSE,,,,,,,Name,,Source,Complete,,,Poppy,Summer crops,FALSE,,"5,000",,,FALSE,,,Iron bar,"Smelting Iron ore in the Furance, crafting the ""Transmute (Fe)"" recipe",FALSE
+,,Green bean,Spring crops,FALSE,,SPRING FORAGING,,,FALSE,,,Sunfish,"Rivers, 6am - 7pm, Spring and summer, Sun",FALSE,,,Maki Roll,"Cooking (QOTS 21 Summer, Year 1; Stardrop Saloon 1500g)",FALSE,,Name,,Source,Complete,,,Gold bar,"Smelting Gold ore in the Furnace, crafting the ""Transmute (Au)"" recipe",FALSE
+,,Cauliflower,Spring crops,FALSE,,Name,,Source,Complete,,,Catfish,"Rivers and Secret Woods Pond, anytime, Spring and Fall, Rain",FALSE,,,Fried Egg,Cooking (upgraded farmhouse),FALSE,,,"5,000g",Purchase,FALSE,,Reward: Furnace (1),,,
+,,Potato,Spring crops,FALSE,,,Wild horseradish,Spring foraging,FALSE,,,Shad,"Rivers, anytime, Spring and Summer and Fall, Rain",FALSE,,Reward: Pink Cake (3),,,,,Reward: Quality Fertilizer (30),,,,,GEOLOGIST,,,FALSE
+,Reward: Speed-Gro (20),,,,,,Daffodil,Spring foraging,FALSE,,,Tiger Trout,"Rivers, 6am - 7pm, Fall and Winter, any weather",FALSE,,DYE (Emily),,,FALSE,,"10,000",,,FALSE,,Name,,Source,Complete
+,SUMMER CROPS,,,FALSE,,,Leek,Spring foraging,FALSE,,Reward: Bait (30),,,,,Name,,Source,Complete,,Name,,Source,Complete,,,Quartz,Foraging on all levels of Mines,FALSE
+,Name,,Source,Complete,,,Dandelion,Spring foraging,FALSE,,LAKE FISH,,,FALSE,,,Red Mushroom,"Foraging in Mines, Summer or Fall Foraging in Secret Woods, Mushroom Cave, Tapping Mushroom tree",FALSE,,,"10,000g",Purchase,FALSE,,,Earth Crystal,"Foraging Mines (level 1-39), Geodes, drop from Duggies (Mines level 1-29)",FALSE
+,,Tomato,Summer crops,FALSE,,Reward: Spring Seeds (30),,,,,Name,,Source,Complete,,,,,,,Reward: Lightning Rod (1),,,,,,,,
+,,Hot pepper,Summer crops,FALSE,,SUMMER FORAGING,,,FALSE,,,Largemouth Bass,"Mountain lake, 6am - 7pm, all seasons",FALSE,,,,,,,"25,000",,,FALSE,,,Frozen Tear,"Foraging Mines (level 40-79), Frozen geodes, drop from Dust Sprites (Mines level 40-80)",FALSE
+,,Blueberry,Summer crops,FALSE,,Name,,Source,Complete,,,Carp,"Mountain Lake, anytime, all seasons; Forest pond, anytime, Spring and Summer and Fall; Secret Woods or Sewer, anytime, all seasons",FALSE,,,Sea Urchin,Beach Foraging (300 wood to fix bridge to the right),FALSE,,Name,,Source,Complete,,,,,
+,,Melon,Summer crops,FALSE,,,Grape,"Summer foraging, 
+Fall farming",FALSE,,,,,,,,Sunflower,Summer and Fall crops,FALSE,,,"25,000g",Purchase,FALSE,,,Fire Quartz,"Foraging Mines (level 80-120), Magma geode, Omni geode",FALSE
+,Reward: Quality sprinkler (1),,,,,,Spice berry,"Summer foraging, 
+Fruit bat cave",FALSE,,,Bullhead,"Mountain Lake, anytime, all seasons",FALSE,,,Duck Feather,Ducks,FALSE,,Reward: Crystalarium (1),,,,,Reward: Omni Geode (5),,,
+,FALL CROPS,,,FALSE,,,Sweet pea,Summer foraging,FALSE,,,Sturgeon,"Mountain Lake, 6am - 7pm, Summer and Winter",FALSE,,,Aquamarine,Aquamarine nodes and boxes in Mines,FALSE,,,,,,,ADVENTURER,,,FALSE
+,Name,,Source,Complete,,Reward: Summer Seeds (30),,,,,Reward: Dressed Spinner (1),,,,,,Red Cabbage,Summer crops year 2+,FALSE,,,,,,,Name,,Source,Complete
+,,Corn,Summer & Fall Crops,FALSE,,FALL FORAGING,,,FALSE,,OCEAN FISH,,,FALSE,,Reward: Seed Maker (1),,,,,,,,,,(CHOOSE 2),,,
+,,Eggplant,Fall Crops,FALSE,,Name,,Source,Complete,,Name,,Source,Complete,,FIELD RESEARCH (Demetrius),,,FALSE,,,,,,,,Slime (99),Dropped by Slimes,FALSE
+,,Pumpkin,Fall Crops,FALSE,,,Common mushroom,"Fall foraging, Spring & fall foraging (secret woods), Mushrooms cave, Tapping mushroom tree",FALSE,,,Sardine,"Ocean, 6am - 7pm, Spring and Fall and Winter",FALSE,,,,,,,,,,,,,Bat Wing (10),Dropped by Bats in Mines,FALSE
+,,Yam,Fall Crops,FALSE,,,,,,,,Tuna,"Ocean, 6am - 7pm, Summer and Winter",FALSE,,Name,,Source,Complete,,,,,,,,Solar Essence,"Dropped by Ghosts, Squid Kids, or Metal Heads in Mines; dropped by Mummies in Skull Cavern",FALSE
+,Reward: Bee House (1),,,,,,Wild plum,"Fall foraging,
+Fruit bat cave",FALSE,,,Red Snapper,"Ocean, 6am - 7pm, Summer and Fall, Rain",FALSE,,,Purple Mushroom,"Foraging in Mines, Mushroom Cave",FALSE,,,,,,,,,,
+,QUALITY CROPS,,,FALSE,,,Hazelnut,Fall foraging,FALSE,,,Tilapia,"Ocean, 6am - 2pm, Summer and Fall",FALSE,,,Nautilus Shell,Winter Beach Foraging,FALSE,,,,,,,,,,
+,Name,,Source,Complete,,,Blackberry,"Fall foraging,
+Fruit bat cave",FALSE,,Reward: Warp Totem: Beach (5),,,,,,Chub,"Mountain lake and River, All seasons",FALSE,,,,,,,,Void Essence,Dropped by Shadow Brutes in Mines; Dropped by Serpents in Skull Cavern,FALSE
+,(CHOOSE 3),,,,,Reward: Fall Seeds (30),,,,,NIGHT FISHING,,,FALSE,,,Frozen geode,Mines (level 40-79),FALSE,,,,,,,,,,
+,,Parsnip (5),Gold quality Spring crop,FALSE,,WINTER FORAGING,,,FALSE,,Name,,Source,Complete,,Reward: Recycling Machine (1),,,,,,,,,,Reward: Small Magnet Ring (1),,,
+,,Melon (5),Gold quality Summer crop,FALSE,,Name,,Source,Complete,,,Walleye,"Rivers, Lakes, Forest Pond; 12pm - 2am; Fall; Rain",FALSE,,FODDER (Marnie),,,FALSE,,,,,,,,,,
+,,Pumpkin (5),Gold quality Fall crop,FALSE,,,Winter root,"Tilling soil or artifact spots in winter, Blue slime drop (Mines 41-79)",FALSE,,,Bream,"Rivers, 6pm - 2am, all seasons",FALSE,,Name,,Source,Complete,,,,,,,,,,
+,,Corn (5),Gold quality Summer/Fall Crop,FALSE,,,Crystal fruit,"Winter foraging,
+Dust sprite drop (Mines 41-79",FALSE,,,Eel,"Ocean, 4pm - 2am, Spring and Fall, Rain",FALSE,,,Wheat (10),Summer and Fall crops,FALSE,,,,,,,,,,
+,Reward: Preserves Jar (1),,,,,,Snow yam,Tilling soil or artifact spots in winter,FALSE,,Reward: Small Glow Ring (1),,,,,,Hay (10),"Purchase at Marnie's Ranch; Harvest grass with Scythe after building Silo, then withdraw from Hay Hopper in Coop or Barn",FALSE,,,,,,,,,,
+,ANIMAL,,,FALSE,,,Crocus,Winter foraging,FALSE,,CRAB POT,,,FALSE,,,,,,,,,,,,,,,
+,Name,,Source,Complete,,Reward: Winter Seeds (30),,,,,Name,,Source,Complete,,,,,,,,,,,,,,,
+,(CHOOSE 5),,,,,CONSTRUCTION,,,FALSE,,(CHOOSE 5),,,,,,Apple (3),"Apple Trees during Fall, Fruit bat cave",FALSE,,,,,,,,,,
+,,Large Milk,Cows,FALSE,,Name,,Source,Complete,,,Lobster,Caught in crab pots,FALSE,,Reward: Heater (1),,,,,,,,,,,,,
+,,Large Egg (Brown),Chickens,FALSE,,,Wood (99),Chopping tress or branches with an axe,FALSE,,,Crayfish,Caught in crab pots,FALSE,,ENCHANTER (Wizard),,,FALSE,,,,,,,,,,
+,,Large Egg (Brown),Chickens,FALSE,,,Wood (99),Chopping tress or branches with an axe,FALSE,,,Crab,"Caught in crab pots, drops from rock crabs or lava crabs in Mines",FALSE,,Name,,Source,Complete,,,,,,,,,,
+,,Large Goat Milk,Goats,FALSE,,,Stone (99),Smashing stones with a pickaxe,FALSE,,,Cockle,"Caught in crab pots, Beach foraging",FALSE,,,Oak Resin,Tapped oak tree,FALSE,,,,,,,,,,
+,,Wool,"Sheep, Rabbits",FALSE,,,Hardwood (10),"Chopping large stumps or large logs with an ugraded axe, Smashing crates in Mines",FALSE,,,Mussel,"Caught in crab pots, Beach foraging",FALSE,,,Wine,Keg,FALSE,,,,,,,,,,
+,,Duck Egg,Ducks,FALSE,,,,,,,,Shrimp,Caught in crab pots,FALSE,,,Rabbit's Foot,"Rabbits (friendship + mood + luck), Serpent drop in Skull Cavern (0.8%), Traveling cart (very rare, but worth it)",FALSE,,,,,,,,,,
+,Reward: Cheese Press (1),,,,,Reward: Charcoal Kiln,,,,,,Snail,Caught in crab pots,FALSE,,,,,,,,,,,,,,,
+,ARTISAN,,,FALSE,,EXOTIC FORAGING,,,FALSE,,,Periwinkle,Caught in crab pots,FALSE,,,,,,,,,,,,,,,
+,Name,,Source,Complete,,Name,,Source,Complete,,,Oyster,"Caught in crab pots, Beach foraging",FALSE,,,Pomegranate,"Pomegranate trees during Fall, Fruit bat cave",FALSE,,,,,,,,,,
+,(CHOOSE 6),,,,,(CHOOSE 5),,,,,,Clam,"Caught in crab pots, Beach foraging",FALSE,,Reward: Gold bar (5),,,,,,,,,,,,,
+,,Truffle Oil,Made from truffles (pigs) using an oil maker,FALSE,,,Coconut,Desert foraging,FALSE,,Reward: Crab Pot (3),,,,,,,,,,,,,,,,,,
+,,Cloth,"Loom, Recycling a soggy newspaper",FALSE,,,Cactus fruit,Desert foraging,FALSE,,SPECIALTY FISH,,,FALSE,,,,,,,,,,,,,,,
+,,Goat cheese,Cheese press (goat milk),FALSE,,,Cave carrot,Mines by smashing boxes or tilling soil,FALSE,,Name,,Source,Complete,,,,,,,,,,,,,,,
+,,Cheese,Cheese press (cow milk),FALSE,,,Red mushroom,"Foraging in Mines, Summer or fall foraging in Secret Woods, Mushroom cave, Tapping mushroom tree",FALSE,,,Pufferfish,"Ocean, 12pm - 4pm, Summer",FALSE,,,,,,,,,,,,,,,
+,,Honey,Bee house,FALSE,,,,,,,,Ghostfish,"Mines (level 20, 60, 100), Anytime, All seasons; Dropped by ghosts",FALSE,,,,,,,,,,,,,,,
+,,Jelly,Preserves jar,FALSE,,,Purple mushroom,"Mines, Mushroom cave",FALSE,,,,,,,,,,,,,,,,,,,,
+,,Apple,"Apple trees during Fall,
+Fruit bat cave",FALSE,,,Maple syrup,Tapped maple tree,FALSE,,,Sandfish,"Desert, 6am - 10pm, all seasons",FALSE,,,,,,,,,,,,,,,
+,,Apricot,"Apricot trees during Spring, Fruit bat cave",FALSE,,,Oak resin,Tapped oak tree,FALSE,,,Woodskip,"Secret Woods, anytime, all seasons",FALSE,,,,,,,,,,,,,,,
+,,Orange,"Orange trees during Summer, Fruit bat cave",FALSE,,,Pine tar,Tapped pine tree,FALSE,,Reward: Dish o' The Sea (5),,,,,,,,,,,,,,,,,,
+,,Peach,"Peach trees during summer, Fruit bat cave",FALSE,,,Morel,"Spring foraging in Secret Woods, Mushroom cave",FALSE,,,,,,,,,,,,,,,,,,,,
+,,Pomegranate,"Pomegranate trees during Fall, Fruit bat cave",FALSE,,Reward: Autumn's Bounty (5),,,,,,,,,,,,,,,,,,,,,,,
+,,Cherry,"Cherry trees during Spring, Fruit bat cave",FALSE,,,,,,,,,,,,,,,,,,,,,,,,,
+,Reward: Keg (1),,,,,,,,,,,,,,,,,,,,,,,,,,,,

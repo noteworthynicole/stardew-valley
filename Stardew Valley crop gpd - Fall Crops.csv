@@ -1,0 +1,25 @@
+Custom Values,Values,,,,,,,
+"Agriculturalist (0 If Not, 1 If Yes)",0,,,,,,,
+Farming Level,0,,,,Crop Quality,No Fertilizer,Basic Fertilizer,Quality Fertilizer
+"Tiller Profession (0 If Not, 1 If Yes)",0,,,,Gold Quality Prob,"0,01","0,04","0,08"
+Number of Days,28,,,,Silver Quality Prob,"0,02","0,08","0,14"
+"Tapper Profession (0 If Not, 1 If Yes)",0,,,,Normal Quality Prob,"0,97","0,87","0,78"
+"Bought Fertilizer (0 If Not, 1 If Yes)",0,,,,Total Price Bonus %,"101,00","104,24","107,37"
+"Old Fertilizer (1 If New, 0 If Reused from last season)",0,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Single Crops,Seed Price,Growth Days,Sell Price,Normal,Speed-Gro,Deluxe Speed-Gro,Basic Fertilizer,Quality Fertilizer
+Amaranth,70,7,150,"8,66","11,54","14,43","8,93","9,20"
+Artichoke,30,8,160,"14,07","14,07","18,76","14,52","14,96"
+Beet,20,6,100,"11,54","14,43","17,31","11,91","12,27"
+Bok Choy,50,4,80,"6,49","9,74","9,74","6,70","6,90"
+Fairy Rose,200,12,290,"6,49","6,49","9,74","6,70","6,90"
+Pumpkin,100,13,320,"15,87","15,87","23,81","16,38","16,87"
+Sweet Gem Berry,1000,24,3000,"72,14","72,14","72,14","74,46","76,69"
+Yam,60,10,160,"7,21","10,82","10,82","7,45","7,67"
+,,,,,,,,
+Multiple Crops,Seed Price,Growth Days,Sell Price,Normal,Speed-Gro,Deluxe Speed-Gro,Basic Fertilizer,Quality Fertilizer
+Cranberries,240,7,150,"18,48","18,48","18,48","19,35","20,19"
+Eggplant,20,5,60,"10,11","10,11","10,11","10,45","10,79"
+Grape,60,10,80,"15,17","18,06","18,06","15,73","16,26"
