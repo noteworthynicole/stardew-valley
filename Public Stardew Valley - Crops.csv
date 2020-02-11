@@ -1,0 +1,43 @@
+,,,,WARNING: These numbers are using the Tiller and Artisan skills,,,,,,,,
+,,,,This will not change the ranking as everything is affected equally,,,,,,,Ranking for Artisan Goods,
+,Spring,Buy price(1),Total Buy,Sell Price (1),Total Sell,Total Profit,Other,Sell Aritsan Goods (1),Profit Artisan Goods,Artisan Good,,
+,Strawberry,100,100,132,792,692,,503,2918,Wine,1,
+,Rhubarb,100,200,242,484,284,,923,1646,Wine,2,
+,Cauliflower,80,160,192,384,224,,560,960,Jam,,7
+,Potato,50,200,88,422,222,Can produce 2 at a time,294,1211,Jam,4,
+,Green Bean,60,60,44,264,204,,182,1032,Jam,,6
+,Kale,70,280,121,484,204,,378,1232,Jam,3,
+,Garlic,40,240,66,396,156,,238,1188,Jam,5,
+,Parsnip,20,140,38,266,126,,168,868,Jam,,8
+,Blue Jazz,30,120,55,220,100,,-,-,-,,
+,Rice (Unmilled) (Irrigated),20,80,33,145,65,"Can be milled into Rice ($100), Chance (10%) to produce extra",154,598,Jam,,9
+,Rice (Unmilled),20,60,33,109,49,"Can be milled into Rice ($100), Chance (10%) to produce extra",154,448,Jam,,10
+,Tulip,20,100,33,132,32,,-,-,-,,
+,Summer,Buy price(1),Total Buy,Sell Price (1),Total Sell,Total Profit,Other,Sell Artisan Goods (1),Profit Artisan Goods,Artisan Good,,
+,Starfruit,500,1000,825,1650,650,,3150,8450,Wine,1,
+,Blueberry,80,80,55,660,580,Produce 3 each time,210,2440,Either,3,
+,Red Cabbage,100,300,286,858,558,,819,2157,Wine,5,
+,Corn,150,150,55,550,400,Grown in Summer and Fall,210,2160,Jam,4,
+,Hops,60,60,27,459,399,,420,7080,Wine,2,
+,Melon,80,160,275,550,390,,1050,1940,Wine,,6
+,Poppy,100,700,154,1078,378,,-,-,-,,
+,Hot Pepper,40,40,44,352,312,,168,1304,Wine,,8
+,Tomato,50,50,66,330,280,,238,1140,Jam,,9
+,Radish,40,160,99,396,236,,322,1128,Jam,,10
+,Sunflower,20,20,80,240,220,"Produces 1 or 2 seeds, Grown in Summer and Fall",-,-,-,,
+,Summer Spangle,40,120,99,297,177,,-,-,-,,
+,Wheat,10,60,27,162,102,Grown in Summer and Fall,280,1620,Wine,,7
+,Fall,Buy price(1),Total Buy,Sell Price (1),Total Sell,Total Profit,Other,Sell Artisan Goods (1),Profit Artisan Goods,Aritisan Good,,
+,Cranberries,240,240,82,820,580,Produce 2 each time,315,1335,Wine,,6
+,Grape,60,60,88,616,556,,336,1956,Wine,2,
+,Pumpkin,100,200,352,704,504,,1008,1816,Wine,3,
+,Artichoke,30,90,176,582,492,,518,1464,Jam,5,
+,Corn,150,150,55,550,400,Grown in Summer and Fall,210,2160,Jam,1,
+,Amaranth,70,280,165,660,380,,490,1190,Jam,,8
+,Beet,20,100,110,440,340,,350,1300,Jam,,7
+,Eggplant,20,20,66,330,310,,238,1170,Jam,,
+,Fairy Rose,200,400,319,638,238,,-,-,-,,
+,Bok Choy,50,300,88,528,228,,294,1464,Jam,,
+,Yam,60,120,176,352,228,,518,916,Jam,5,
+,Sunflower,20,20,80,240,220,"Produces 1 or 2 seeds, Grown in Summer and Fall",-,-,-,,
+,Wheat,10,60,27,162,102,Grown in Summer and Fall. Not continuous,280,1620,Wine,4,
