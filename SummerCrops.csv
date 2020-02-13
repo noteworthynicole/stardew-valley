@@ -1,0 +1,16 @@
+Cat.,Plant,Seed Price,Sell Price,Sell Price,Sell Price,Days,Yield,Profit,Profit/d,Reharvest,Profit/Season,Harvests,Profit/Season/d,Place,Continuous
+Fruit,Orange (Tree),"4,000G",100G,125G,150G,28,-,-,-,-,-,,-,General Store,Yes
+Fruit,Peach (Tree),"6,000G",140G,175G,210G,28,-,-,-,-,-,,-,General Store,Yes
+Fruit,Ancient Fruit,0G,750G,937G,"1,125G",28,1,750G,-,8 Days,-,-,-,Unknown,Yes
+Fruit,Blueberry,80G,80G,100G,120G,13,3,160G,12.31G,4 Days,880G,4,31.43G,General Store,Yes
+Fruit,Starfruit,400G,800G,"1,000G","1,200G",13,1,400G,30.77G,13 Days,800G,2,28.57G,Desert Store,No
+Veg,Red Cabbage,100G,260G,325G,390G,9,1,160G,17.78G,9 Days,480G,3,17.14G,General Store,No
+Veg,Hops,60G,25G,31G,37G,11,1,-35G,-3.18G,1 Days,365G,17,13.04G,General Store,Yes
+Fruit,Melon,80G,250G,312G,375G,12,1,170G,14.17G,12 Days,340G,2,12.14G,General Store,No
+Fruit,Pepper,40G,40G,50G,60G,5,1,0G,0.00G,3 Days,280G,8,10.00G,General Store,Yes
+Veg,Tomato,50G,60G,75G,90G,11,1,10G,0.91G,4 Days,250G,5,8.93G,General Store,Yes
+Veg,Radish,40G,90G,112G,135G,6,1,50G,8.33G,6 Days,200G,4,7.14G,General Store,No
+Flower,Poppy,100G,140G,175G,210G,7,1,40G,5.71G,7 Days,120G,3,4.29G,General Store,No
+Flower,Spangle,50G,90G,112G,135G,8,1,40G,5.00G,8 Days,120G,3,4.29G,General Store,No
+Veg,Wheat,10G,25G,31G,37G,4,1,15G,3.75G,4 Days,90G,6,3.21G,General Store,No
+Veg,Corn,150G,50G,62G,75G,14,1,-100G,-7.14G,4 Days,50G,4,0.89G,General Store,Yes

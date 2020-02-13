@@ -1,0 +1,63 @@
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Easiest love,,,,Easiest like,,,,
+,,,,,,,,1,Krobus,,"Pumpkin, void egg, void mayonnaise, wild horseradish",,,,"Vegetables, quartz, artisan goods",,,,
+,,,,,,,,3,Linus,,"Coconut, cactus fruit, yam, dish o' the sea",,,,"Holly, hazelnut, dandelion, daffodil, wild horseradish",,,,
+,,,,,,,,7,Caroline,,"Summer spangle, fish taco",,,,"Daffodil, maple syrup, vegetables, crocus",,,,
+,,,,,,,,10,Sebastian,,"Sashimi, frozen tear",,,,"Vegetables, coffee, mead, quartz",,,,
+,,,,,,,,14,Harvey,,"Coffee, pickles, wine",,,,"Common mushroom, daffodil, dandelion, hazelnut, holly",,,,
+,,,,,,,,17,Wizard,,"Purple mushroom, solar essence, void essence",,,,"Quartz, vegetables, artisan goods, maple syrup",,,,
+,,,,,,,,20,Evelyn,,"Beet, fairy rose, tulip",,,,"Milk, daffodil, vegetables, crocus",,,,
+,,,,,,,,23,Leah,,"Goat cheese, truffle, wine",,,,"Vegetables, fruit, eggs, milk, holly, snow yam",,,,
+,,,,,,,,26,Clint,,"Amethyst, aquamarine, topaz, artichoke dip",,,,"Vegetables, artisan goods, cooking, fruit tree fruits",,,,
+,,,,,,,,,,,Time,Location,Notes,,,,,,Money needed
+,,,,,,,,8,Festival of Ice,,9am - 2pm,Cindersap Forest,Ice Fishing Contest (catch at least five fish to win),,,,,,n/a
+,,,,,,,,15-17,Night market,,5pm - 2aqm,Beach,"Deep sea fishing (3 new fish), several vendors, free coffee",,,,,,Lots
+,,,,,,,,25,Feast of the Winter Star,,9am - 2pm,Pelican Town,"Secret gift exchange (assigned 18 winter), worth 5x normal friendship points",,,,,,n/a
+,,,,,,,,,,,,,,,,,,,
+CROPS,,,,,,,,,,,,,,,,,,,
+,Crop,Seed price,Days to grow,Sells for,Tiller profession,Profit/day (base),Keg,Artisan,Jar,Artisan,# for recipes,# for crafting,Polyculture,# for bundles,Total # needed,Total cost,Other needs,Loves,Likes
+,,,,,,,,,,,,,,,,,,,
+FORAGING,,,,,,,,,,,,,,,,,,,
+,Crop,Location,,Sells for,,Keg/Jar,Artisan Keg/Jar,,# for recipes,,# for crafting,# for bundles,Total # needed,Other needs,,Loves,Likes,,
+,Crocus,Above ground Stardew Valley,,"60, 75, 90, 120",,-,-,,0,,1,1,2+,Help wanted,,Sandy,"NOT Clint, George, Sebastian",,
+,Crystal fruit,"Above ground Stardew Valley, killing dust sprites in mines (floors 40-80)",,"150, 187, 225, 300",,450 / 350,630 / 489,,0,,1,1,2+,Help wanted,,-,"Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",,
+,Holly,Above ground Stardew Valley,,"80, 100, 120, 160",,-,-,,0,,0,0,0,-,,-,"Harvey, Leah, Linus",,
+,Nautilus Shell,The beach,,"120, 150, 180, 240",,-,-,,0,,0,1,1,-,,-,-,,
+,Snow yam,Tilling soil in Stardew Valley (outside farm),,"100, 125, 150, 200",,-,-,,0,,1,1,2+,Help wanted,,-,"Harvey, Leah, Linus",,
+,Winter root,"Tilling soil in Stardew Valley (outside farm), Mines (floors 40-80), Secret woods",,"70, 87, 105, 140",,-,-,,1,,1,1,3+,Help wanted,,-,"Harvey, Leah, Linus",,
+,Cave carrot,Mines (ALL SEASONS),,25,,-,-,,5,,0,1,6+,Help wanted,,-,-,,
+,Coconut,Desert (ALL SEASONS),,"100, 125, 150, 200",,300 / 250,420 / 350,,1,,0,1,3+,"Gus ""exotic spirits"" (19 winter, year 2)",,"Haley, Linus","Demetrius, Elliott, Harvey, Jas, Jodi, Kent, Leah, Lewis, Pam, Robin, Sandy, Shane, VIncent",,
+FISH,,,,,,,,,,,,,,,,,,,
+,Fish,Locations,,Time,Seasons,Weather,Sells for,,Fisher,,Angler,Difficulty,Behavior,# for recipes,# for bundles,Other needs,,Loves,Likes
+,Albacore,Ocean,,6am - 11am; 6pm - 2am,"Fall, Winter",-,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",60,Mixed,0-3,0,"Gus ""Fish stew"" 26 winter; Help wanted",,-,-
+,Glacierfish,South end of Arrowhead Island in Cindersap Forest (level 7 fishing),,-,Winter,-,"1000, 1250, 1500",,"1250, 1562, 1875",,"1500, 1875, 2250",100,Mixed,0,0,-,,-,-
+,Halibut,Ocean,,"6am - 11am, 7pm - 2am","Spring, Summer, Winter",-,"80, 100, 120",,"100, 125, 150",,"120, 150, 180",50,Sinker,0-3,0,-,,-,-
+,Herring,Ocean,,-,"Spring, Winter",-,sashimi,,sashimi,,sashimi,25,Dart,0-3,0,"Help wanted (sp, wi)",,-,-
+,Lingcod,"River (town + forest), Mountain lake",,-,Winter,-,"120, 150, 180",,"150, 187, 225",,"180, 225, 270",85,Mixed,0-3,0,"Willy ""Catch a Lingcod"" 13 winter yearly",,-,Willy
+,Perch,"River (town + forest), Forest Pond, Mountain lake",,-,Winter,-,"55, 68, 82",,"68, 85, 103",,"82, 103, 123",35,Mixed,0-3,0,Help wanted,,-,-
+,Pike,"River (town+forest), Forest pond",,-,"Summer, Winter",-,"100, 125, 150",,"125, 156, 187",,"150, 187, 225",60,Dart,0-3,0,Help wanted,,-,-
+,Red mullet,Ocean,,6am - 7pm,"Summer, Winter",Any,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",55,Smooth,0-3,0,Help wanted,,-,-
+,Red snapper,Ocean,,6am - 7pm,"Summer, Fall, Winter",Rain,"50, 62, 75",,"62, 78, 93",,"75, 93, 112",40,Mixed,0-3,1,Help wanted,,-,-
+,Sardine,Ocean,,6am - 7pm,"Spring, Fall, Winter",-,Sashimi/Dish o' the Sea,,Dish o' the Sea,,"60, 75, 90",30,Dart,1-4,1,Help wanted (any season),,-,-
+,Sea cucumber,Ocean,,6am - 7pm,"Fall, Winter",-,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",40,Sinker,1-4,0,Help wanted,,Willy,-
+,Squid,Ocean,,6pm - 2am,Winter,-,"80, 100, 120",,"100, 125, 150",,"120, 150, 180",75,Sinker,1-4,0,"Willy ""Catch a squid"" 2 winter; Help wanted",,-,Elliott
+,Sturgeon,Mountain lake,,6am - 7pm,"Summer, Winter",-,"200, 250, 300",,"250, 312, 375",,"300, 375, 450",78,Mixed,0-3,1,-,,Willy,-
+,Tiger trout,River (town+forest),,6am - 7pm,"Fall, Winter",-,"150, 187, 225",,"187, 234, 281",,"225, 281, 337",60,Dart,0-3,1,Help wanted,,-,Willy
+,Tuna,Ocean,,6am - 7pm,"Summer, Winter",-,"100, 125, 150",,"125, 156, 187",,"150, 187, 225",70,Smooth,1-4,1,Help wanted,,-,-
+,Blobfish,Night market deep sea fishing,,5pm - 2am,Winter,-,"500, 625, 750",,"625, 781, 937",,"750, 937, 1125",75,Floater,0,0,-,,-,-
+,Midnight squid,Night market deep sea fishing,,5pm - 2am,Winter,-,"100, 125, 150",,"125, 156, 187",,"150, 187, 225",55,Sinker,0,0,-,,-,-
+,Spook fish,Night market deep sea fishing,,5pm - 2am,Winter,-,"220, 275, 330",,"275, 343, 412",,"330, 412, 495",60,Dart,0,0,-,,-,-
+,Bream,River (town+forest),,6pm - 2am,-,-,sashimi,,"56, 70, 84",,"67, 84, 101",35,Smooth,1-4,1,Help wanted (any season),,-,-
+,Bullhead,Mountain Lake,,-,-,-,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",46,Smooth,0-3,1,-,,-,-
+,Chub,"River (forest), Mountain lake",,-,-,-,"50, 62, 75",,"62, 78, 93",,"75, 93, 112",35,Dart,0-3,1,Help wanted (any season),,-,-
+,Ghostfish,"Mines (20, 60, 100), Ghost drops",,-,-,-,sashimi,,"56, 70, 84",,"67, 84, 101",50,Mixed,0-3,1,-,,-,-
+,Ice Pip,Mines (60; level 5 fishing),,-,-,-,"500, 625, 750",,"625, 781, 937",,"750, 937, 1125",85,Dart,0-3,0,-,,-,-
+,Largemouth Bass,Mountain lake,,6am - 7pm,-,-,"100, 125, 150",,"125, 156, 187",,"150, 187, 225",50,Mixed,1-4,1,"Jodi quest (4+ <3), Help wanted (any season)",,-,-
+,Lava Eel,"Mines (100, level 7 fishing)",,-,-,-,"700, 875, 1050",,"875, 1093, 1312",,"1050, 1312, 1575",90,Mixed,0-3,0,-,,-,-
+,Mutant Carp,The sewers,,-,-,-,"1000, 1250, 1500",,"1250, 1562, 1875",,"1500, 1875, 2250",80,Dart,0,0,-,,-,-
+,Sandfish,Desert,,6am - 8pm,-,-,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",65,Mixed,0-3,1,-,,Penny,-
+,Scorpion Carp,Desert (level 4 fishing),,6am - 10pm,-,-,"150, 187, 225",,"187, 234, 281",,"225, 281, 337",90,Dart,0-3,0,-,,-,-
+,Slimejack,Mutant bug lair,,6am - 2pm,-,-,"100, 125, 150",,"125, 156, 187",,"150, 187, 225",55,Dart,0-3,0,-,,-,-
+,Stonefish,"Mines (20, level 3 fishing)",,-,-,-,"300, 375, 450",,"375, 468, 562",,"450, 562, 675",65,Sinker,0-3,0,-,,-,-
+,Void Salmon,Witch's swamp,,-,-,-,"150, 187, 225",,"187, 234, 281",,"225, 281, 337",80,Mixed,0-3,0,-,,-,-
+,Woodskip,Secret Woods,,-,-,-,"75, 93, 112",,"93, 117, 140",,"112, 140, 168",50,Mixed,0-3,1,-,,-,-
