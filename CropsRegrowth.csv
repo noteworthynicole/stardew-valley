@@ -1,41 +1,39 @@
 Crop,Seed Price,Sold At,Growth Time,Regrowth Time,Regular,Silver,Gold,Gold/Day
-Ancient Fruit,Not Sold,Ancient Seed,28 Days,7 Days,550 Gold,687 Gold,825 Gold,57.14
-Blue Jazz,30 Gold,Pierre,7 Days,,50 Gold,62 Gold,75 Gold,2.86
-Cauliflower,80 Gold,Pierre,12 Days,,175 Gold,218 Gold,262 Gold,7.92
-Coffee Bean,2500 Gold,Traveling Cart,10 Days,2 Days,15 Gold,18 Gold,22 Gold,-20.74
-Garlic,40 Gold,Pierre,4 Days,,60 Gold,75 Gold,90 Gold,5
-Green Bean,60 Gold,Pierre,10 Days,3 Days,40 Gold,50 Gold,60 Gold,7.2
-Kale,70 Gold,Pierre,6 Days,,110 Gold,137 Gold,165 Gold,6.67
-Parsnip,20 Gold,Pierre,4 Days,,35 Gold,43 Gold,52 Gold,3.75
-Potato,50 Gold,Pierre,6 Days,,80 Gold,100 Gold,120 Gold,7.67
-Rhubarb,100 Gold,Oasis,13 Days,,220 Gold,275 Gold,330 Gold,9.23
-Strawberry,100 Gold,Egg Festival,8 Days,4 Days,120 Gold,150 Gold,180 Gold,20.83/11.67
-Tulip,20 Gold,Pierre,6 Days,,30 Gold,37 Gold,45 Gold,1.67
-Blueberry,80 Gold,Pierre,13 Days,4 Days,50 Gold,62 Gold,75 Gold,20.8
-Corn,150 Gold,Pierre,14 Days,4 Days,50 Gold,62 Gold,75 Gold,1.92/7.41
-Hops,60 Gold,Pierre,11 Days,1 Days,25 Gold,31 Gold,37 Gold,13.52
-Hot Pepper,40 Gold,Pierre,5 Days,3 Days,40 Gold,50 Gold,60 Gold,10.77
-Melon,80 Gold,Pierre,12 Days,,250 Gold,312 Gold,375 Gold,14.17
-Poppy,100 Gold,Pierre,7 Days,,140 Gold,175 Gold,210 Gold,5.71
-Radish,40 Gold,Pierre,6 Days,,90 Gold,112 Gold,135 Gold,8.33
-Red Cabbage,100 Gold,Pierre,9 Days,,260 Gold,325 Gold,390 Gold,17.78
-Starfruit,400 Gold,Oasis,13 Days,,750 Gold,937 Gold,1125 Gold,26.92
-Summer Spangle,50 Gold,Pierre,8 Days,,90 Gold,112 Gold,135 Gold,5
-Sunflower,200/125 Gold,JojaMart,8 Days,,80 Gold,100 Gold,120 Gold,2.664298401
-Tomato,50 Gold,Pierre,11 Days,4 Days,60 Gold,75 Gold,90 Gold,9.26
-Wheat,10 Gold,Pierre,4 Days,,25 Gold,31 Gold,37 Gold,3.75
 Amaranth,70 Gold,Pierre,7 Days,,150 Gold,187 Gold,225 Gold,11.43
+Ancient Fruit,Not Sold,Ancient Seed,28 Days,7 Days,550 Gold,687 Gold,825 Gold,57.14
 Artichoke,30 Gold,Pierre,8 Days,,160 Gold,200 Gold,240 Gold,16.25
 Beet,20 Gold,Oasis,6 Days,,100 Gold,125 Gold,150 Gold,13.33
+Blue Jazz,30 Gold,Pierre,7 Days,,50 Gold,62 Gold,75 Gold,2.86
+Blueberry,80 Gold,Pierre,13 Days,4 Days,50 Gold,62 Gold,75 Gold,20.8
 Bok Choy,50 Gold,Pierre,4 Days,,80 Gold,100 Gold,120 Gold,7.5
+Cactus Fruit,150 Gold,Oasis,12 Days,3 Days,75 Gold,93 Gold,112 Gold,11.11/24.11
+Cauliflower,80 Gold,Pierre,12 Days,,175 Gold,218 Gold,262 Gold,7.92
+Coffee Bean,2500 Gold,Traveling Cart,10 Days,2 Days,15 Gold,18 Gold,22 Gold,-20.74
 Corn,150 Gold,Pierre,14 Days,4 Days,50 Gold,62 Gold,75 Gold,1.92/7.41
 Cranberries,240 Gold,Pierre,7 Days,5 Days,75 Gold,93 Gold,112 Gold,18.89
 Eggplant,20 Gold,Pierre,5 Days,5 Days,60 Gold,75 Gold,90 Gold,11.2
 Fairy Rose,200 Gold,Pierre,12 Days,,290 Gold,362 Gold,435 Gold,7.5
+Garlic,40 Gold,Pierre,4 Days,,60 Gold,75 Gold,90 Gold,5
 Grape,60 Gold,Pierre,10 Days,3 Days,80 Gold,100 Gold,120 Gold,16.8
+Green Bean,60 Gold,Pierre,10 Days,3 Days,40 Gold,50 Gold,60 Gold,7.2
+Hops,60 Gold,Pierre,11 Days,1 Days,25 Gold,31 Gold,37 Gold,13.52
+Hot Pepper,40 Gold,Pierre,5 Days,3 Days,40 Gold,50 Gold,60 Gold,10.77
+Kale,70 Gold,Pierre,6 Days,,110 Gold,137 Gold,165 Gold,6.67
+Melon,80 Gold,Pierre,12 Days,,250 Gold,312 Gold,375 Gold,14.17
+Parsnip,20 Gold,Pierre,4 Days,,35 Gold,43 Gold,52 Gold,3.75
+Poppy,100 Gold,Pierre,7 Days,,140 Gold,175 Gold,210 Gold,5.71
+Potato,50 Gold,Pierre,6 Days,,80 Gold,100 Gold,120 Gold,7.67
 Pumpkin,100 Gold,Pierre,13 Days,,320 Gold,400 Gold,480 Gold,16.92
-Sunflower,200/125 Gold,JojaMart,8 Days,,80 Gold,100 Gold,120 Gold,2.664298401
+Radish,40 Gold,Pierre,6 Days,,90 Gold,112 Gold,135 Gold,8.33
+Red Cabbage,100 Gold,Pierre,9 Days,,260 Gold,325 Gold,390 Gold,17.78
+Rhubarb,100 Gold,Oasis,13 Days,,220 Gold,275 Gold,330 Gold,9.23
+Starfruit,400 Gold,Oasis,13 Days,,750 Gold,937 Gold,1125 Gold,26.92
+Strawberry,100 Gold,Egg Festival,8 Days,4 Days,120 Gold,150 Gold,180 Gold,20.83/11.67
+Summer Spangle,50 Gold,Pierre,8 Days,,90 Gold,112 Gold,135 Gold,5
+Sunflower,125 Gold,JojaMart,8 Days,,80 Gold,100 Gold,120 Gold,2.66
 Sweet Gem Berry,1000 Gold,Traveling Cart,24 Days,,3000 Gold,3750 Gold,4500 Gold,83.33
+Tomato,50 Gold,Pierre,11 Days,4 Days,60 Gold,75 Gold,90 Gold,9.26
+Tulip,20 Gold,Pierre,6 Days,,30 Gold,37 Gold,45 Gold,1.67
+Wheat,10 Gold,Pierre,4 Days,,25 Gold,31 Gold,37 Gold,3.75
 Wheat,10 Gold,Pierre,4 Days,,25 Gold,31 Gold,37 Gold,3.75
 Yam,60 Gold,Pierre,10 Days,,160 Gold,200 Gold,240 Gold,10
-Cactus Fruit,150 Gold,Oasis,12 Days,3 Days,75 Gold,93 Gold,112 Gold,11.11/24.11
