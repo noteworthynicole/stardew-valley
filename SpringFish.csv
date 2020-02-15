@@ -1,21 +1,21 @@
 ﻿Fish,Requirements,Locations,Time,Seasons,Weather,Sells for,Fisher,Angler,Difficulty,Behavior,# for recipes,Loves,Likes
 Anchovy,,Ocean,-,"Spring, Fall",-,"30, 37, 45","37, 46, 56","45, 56, 67",30,Dart,0-3,-,-
-Carp,,"Mountain Lake, Sewers, Secret woods pond",-,"Spring, Summer, Fall, (Winter SWP)",-,"39, 37, 45","37, 46, 56","45, 56, 67",15,Mixed,7-Apr,-,-
-Catfish,,"River (town+forest), witch's swamp, secret woods pond (spring & summer)",-,"Spring, Fall",Rain,"200, 250, 300","250, 312, 375","300, 375, 450",75,Mixed,4-Jan,Willy,-
-Eel,,Ocean,4pm - 2am,"Spring, Fall",Rain,"85, 106, 127","106, 132, 159","127, 159, 191",70,Smooth,5-Feb,-,-
+Carp,,"Mountain Lake, Sewers, Secret woods pond",-,"Spring, Summer, Fall, (Winter SWP)",-,"39, 37, 45","37, 46, 56","45, 56, 67",15,Mixed,4-7,-,-
+Catfish,,"River (town+forest), witch's swamp, secret woods pond (spring & summer)",-,"Spring, Fall",Rain,"200, 250, 300","250, 312, 375","300, 375, 450",75,Mixed,1-4,Willy,-
+Eel,,Ocean,4pm - 2am,"Spring, Fall",Rain,"85, 106, 127","106, 132, 159","127, 159, 191",70,Smooth,2-5,-,-
 Halibut,,Ocean,"6am - 11am, 7pm - 2am","Spring, Summer, Winter",-,"80, 100, 120","100, 125, 150","120, 150, 180",50,Sinker,0-3,-,-
 Herring,,Ocean,-,"Spring, Winter",-,"30, 37, 45","37, 46, 56","45, 56, 67",25,Dart,0-3,-,-
 Legend,level 10 fishing,Mountain Lake,-,Spring,Rain,5000-7500,6250-9375,7500-11250,110,Mixed,0,-,-
-Sardine,,Ocean,6am - 7pm,"Spring, Fall, Winter",-,"40, 50, 60","50, 62, 75","60, 75, 90",30,Dart,4-Jan,-,-
+Sardine,,Ocean,6am - 7pm,"Spring, Fall, Winter",-,"40, 50, 60","50, 62, 75","60, 75, 90",30,Dart,1-4,-,-
 Shad,,River (town+forest),9am - 2am,"Spring, Summer, Fall",Rain,"60, 75, 90","75, 93, 112","90, 112, 135",45,Smooth,0-3,-,-
 Smallmouth Bass,,"River (town), Forest pond",-,"Spring, Fall",-,"50, 62, 75","62, 78, 93","75, 93, 112",28,Mixed,0-3,-,-
-Sunfish,,River (town+forest),6am - 7pm,"Spring, Summer",Sun,"30, 37, 45","37, 46, 56","45, 56, 67",30,Mixed,4-Jan,-,-
-Bream,,River (town+forest),6pm - 2am,-,-,"45, 56, 67","56, 70, 84","67, 84, 101",35,Smooth,4-Jan,-,-
+Sunfish,,River (town+forest),6am - 7pm,"Spring, Summer",Sun,"30, 37, 45","37, 46, 56","45, 56, 67",30,Mixed,1-4,-,-
+Bream,,River (town+forest),6pm - 2am,-,-,"45, 56, 67","56, 70, 84","67, 84, 101",35,Smooth,1-4,-,-
 Bullhead,,Mountain Lake,-,-,-,"75, 93, 112","93, 117, 140","112, 140, 168",46,Smooth,0-3,-,-
 Chub,,"River (forest), Mountain lake",-,-,-,"50, 62, 75","62, 78, 93","75, 93, 112",35,Dart,0-3,-,-
 Ghostfish,,"Mines (20, 60, 100), Ghost drops",-,-,-,"45, 56, 67","56, 70, 84","67, 84, 101",50,Mixed,0-3,-,-
 Ice Pip,level 5 fishing,Mines (60),-,-,-,"500, 625, 750","625, 781, 937","750, 937, 1125",85,Dart,0-3,-,-
-Largemouth Bass,,Mountain lake,6am - 7pm,-,-,"100, 125, 150","125, 156, 187","150, 187, 225",50,Mixed,4-Jan,-,-
+Largemouth Bass,,Mountain lake,6am - 7pm,-,-,"100, 125, 150","125, 156, 187","150, 187, 225",50,Mixed,1-4,-,-
 Lava Eel,level 7 fishing,Mines (100),-,-,-,"700, 875, 1050","875, 1093, 1312","1050, 1312, 1575",90,Mixed,0-3,-,-
 Mutant Carp,,The sewers,-,-,-,"1000, 1250, 1500","1250, 1562, 1875","1500, 1875, 2250",80,Dart,0,-,-
 Sandfish,,Desert,6am - 8pm,-,-,"75, 93, 112","93, 117, 140","112, 140, 168",65,Mixed,0-3,Penny,-
