@@ -1,0 +1,32 @@
+Fish,Locations,Time,Seasons,Weather,Sells for,Fisher,Angler,Difficulty,Behavior,# for recipes,Loves,Likes
+Carp,"Mountain Lake, Sewers, Secret woods pond",-,"Spring, Summer, Fall, (Winter SWP)",-,"30, 37, 45","37, 46, 56","45, 56, 67",15,Mixed,7-Apr,-,-
+Catfish,secret woods pond (+summer),-,"Spring, Fall",Rain,"200, 250, 300","250, 312, 375","300, 375, 450",75,Mixed,0-3,Willy,-
+Crimsonfish,Ocean (East pier),-,Summer,-,"1500, 1875, 2250","1875, 2343, 2812","2250, 2812, 3375",95,Mixed,0,-,-
+Dorado,Forest river,6am - 7pm,Summer,-,"100, 125, 150","125, 156, 187","150, 187, 225",78,Mixed,0-3,-,-
+Halibut,Ocean,"6am - 11am, 7pm - 2am","Spring, Summer, Winter",-,"80, 100, 120","100, 125, 150","120, 150, 180",50,Sinker,0-3,-,-
+Octopus,Ocean,6am - 1pm,Summer,-,"150, 187, 225","187, 234, 281","225, 281, 337",95,Sinker,0-3,Willy,Elliott
+Pike,"River (town+forest), Forest pond",-,"Summer, Winter",-,"100, 125, 150","125, 156, 187","150, 187, 225",60,Dart,0-3,-,-
+Pufferfish,Ocean,12pm - 4pm,Summer,Sun,"200, 250, 300","250, 312, 375","300, 375, 450",80,Floater,0-3,Pufferfish,-
+Rainbow Trout,"River (town+forest), Mountain lake",6am - 7pm,Summer,Sun,"65, 81, 97","81, 101, 121","97, 121, 146",45,Mixed,4-Jan,-,-
+Red mullet,Ocean,6am - 7pm,"Summer, Winter",-,"75, 93, 112","93, 117, 140","112, 140, 168",55,Smooth,0-3,-,-
+Red snapper,Ocean,6am - 7pm,"Summer, Fall, Winter",Rain,"50, 62, 75","62, 78, 93","75, 93, 112",40,Mixed,0-3,-,-
+Shad,River (town+forest),9am - 2am,"Spring, Summer, Fall",Rain,"60, 75, 90","75, 93, 112","90, 112, 135",45,Smooth,0-3,-,-
+Sturgeon,Mountain lake,6am - 7pm,"Summer, Winter",-,"200, 250, 300","250, 312, 375","300, 375, 450",78,Mixed,0-3,Willy,-
+Sunfish,River (town+forest),6am - 7pm,"Spring, Summer",Sun,"30, 37, 45","37, 46, 56","45, 56, 67",30,Mixed,4-Jan,-,-
+Super Cucumber,Ocean,6pm - 2am,"Summer, Fall",-,"250, 312, 375","312, 390, 468","375, 468, 562",80,Sinker,0-3,Wizard,-
+Tilapia,Ocean,6am - 2pm,"Summer, Fall",-,"75, 93, 112","93, 117, 140","112, 140, 168",50,Mixed,0-3,-,-
+Tuna,Ocean,6am - 7pm,"Summer, Winter",-,"100, 125, 150","125, 156, 187","150, 187, 225",70,Smooth,4-Jan,-,-
+Bream,River (town+forest),6pm - 2am,-,-,"45, 56, 67","56, 70, 84","67, 84, 101",35,Smooth,4-Jan,-,-
+Bullhead,Mountain Lake,-,-,-,"75, 93, 112","93, 117, 140","112, 140, 168",46,Smooth,0-3,-,-
+Chub,"River (forest), Mountain lake",-,-,-,"50, 62, 75","62, 78, 93","75, 93, 112",35,Dart,0-3,-,-
+Ghostfish,"Mines (20, 60, 100), Ghost drops",-,-,-,"45, 56, 67","56, 70, 84","67, 84, 101",50,Mixed,0-3,-,-
+Ice Pip,Mines (60; level 5 fishing),-,-,-,"500, 625, 750","625, 781, 937","750, 937, 1125",85,Dart,0-3,-,-
+Largemouth Bass,Mountain lake,6am - 7pm,-,-,"100, 125, 150","125, 156, 187","150, 187, 225",50,Mixed,4-Jan,-,-
+Lava Eel,"Mines (100, level 7 fishing)",-,-,-,"700, 875, 1050","875, 1093, 1312","1050, 1312, 1575",90,Mixed,0-3,-,-
+Mutant Carp,The sewers,-,-,-,"1000, 1250, 1500","1250, 1562, 1875","1500, 1875, 2250",80,Dart,0,-,-
+Sandfish,Desert,6am - 8pm,-,-,"75, 93, 112","93, 117, 140","112, 140, 168",65,Mixed,0-3,Penny,-
+Scorpion Carp,Desert (level 4 fishing),6am - 10pm,-,-,"150, 187, 225","187, 234, 281","225, 281, 337",90,Dart,0-3,-,-
+Slimejack,Mutant bug lair,6am - 2pm,-,-,"100, 125, 150","125, 156, 187","150, 187, 225",55,Dart,0-3,-,-
+Stonefish,"Mines (20, level 3 fishing)",-,-,-,"300, 375, 450","375, 468, 562","450, 562, 675",65,Sinker,0-3,-,-
+Void Salmon,Witch's swamp,-,-,-,"150, 187, 225","187, 234, 281","225, 281, 337",80,Mixed,0-3,-,-
+Woodskip,Secret Woods,-,-,-,"75, 93, 112","93, 117, 140","112, 140, 168",50,Mixed,0-3,-,-
