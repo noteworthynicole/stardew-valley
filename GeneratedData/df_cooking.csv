@@ -1,0 +1,71 @@
+,Name,Sell Price,Ingredient,Energy,Health,Stat Bonus,Source,# of Ingredients
+0,Fried Egg,35,Egg,50,50,-,-,1
+1,Omelet,125,"Egg, Milk",100,40,-,Cooking Channel,2
+2,Salad,110,"Leek, Dandelion, Vinegar",113,45,-,-,3
+3,Cheese Califlower,300,"Cauliflower, Cheese",138,55,-,-,2
+4,Baked Fish,100,"Sunfish, Bream, Wheat Flour",75,30,-,Cooking Channel,3
+5,Parsnip Soup,120,"Parsnip, Milk, Vinegar",85,34,-,-,3
+6,Vegetable Stew,120,"Tomato, Beet",165,66,-,-,2
+7,Complete Breakfast,350,"Fried Egg, Milk, Hashbrowns, Pancakes",200,80,"Farming+2, Max Energy +50",Cooking Channel,4
+8,Fried Calamari,150,"Squid, Wheat Flour, Oil",80,32,-,Jodi - Mail,3
+9,Strange Bun,175,"Wheat Flour, Periwinkle, Oak Resin",50,20,-,3+ Hearts Shane,3
+10,Lucky Lunch,250,"Sea Cucumber, Tortilla, Blue Jazz",100,40,Luck+3,Cooking Channel,3
+11,Fried Mushroom,200,"Common Mushroom, Morel, Oil",135,54,Comat+2,-,3
+12,Pizza,300,"Wheat Flour, Tomato, Cheese",150,60,-,Cooking Channel,3
+13,Bean Hotpot,100,Green Bean (2),125,50,Max Energy+2,-,1
+14,Glazed Yams,200,"Yam, Sugar",200,80,-,Cooking Channel,2
+15,Carp Surprise,150,Carp (4),90,36,-,Cooking Channel,1
+16,Hashbrowns,120,"Potato, Oil",90,36,Farming+1,Cooking Channel,2
+17,Pancakes,80,"Wheat Flour, Egg",90,36,Foraging+2,Cooking Channel,2
+18,Salmon Dinner,300,"Salmon, Amarinth, Kale",125,50,-,-,3
+19,Fish Taco,500,"Tuna, Tortilla, Red Cabbage, Mayonnaise",165,66,Fishing+2,-,4
+20,Crispy Bass,150,"Largemouth Bass, Wheat Flour, Oil",90,36,Magnetism+64,-,3
+21,Pepper Poppers,200,"Hot Pepper, Cheese",130,52,"Farming+2, Speed+1",3+ Hearts Shane,2
+22,Bread,60,Wheat Flour,50,20,-,Cooking Channel,1
+23,Trout Soup,100,"Rainbow Trout, Green Algae",100,40,Fishing+1,"Willy, Cooking Channel",2
+24,Chocolate Cake,200,"Wheat Flour, Sugar, Egg",150,60,-,Cooking Channel,3
+25,Pink Cake,480,"Melon, Wheat Flour, Sugar, Egg",250,100,-,Cooking Channel,4
+26,Rhubarb Pie,400,"Rhubarb, Wheat Flour, Sugar",215,86,-,-,3
+27,Cookie,140,"Wheat Flour, Sugar, Egg",90,36,-,Evelyn - Heart Event,3
+28,Spaghetti,120,"Wheat Flour, Tomato",75,30,-,-,2
+29,Fried Eel,120,"Eel, Oil",75,30,Luck+1,-,2
+30,Spicy Eel,175,"Eel, Hot Pepper",115,46,"Luck+1, Speed+1",-,2
+31,Sashimi,75,Fish,75,30,Mining+1,Linus - Heart Event,1
+32,Maki Roll,220,"Fish, Seaweed, Rice",100,40,-,Cooking Channel,3
+33,Tortilla,75,Corn,50,20,-,Cooking Channel,1
+34,Red Plate,400,"Red Cabbage, Radish",240,96,Max Energy+50,-,2
+35,Eggplant Parmesan,200,"Eggplant, Tomato",175,70,"Mining+1, Defense+3",-,2
+36,Rice Pudding,260,"Milk, Sugar, Rice",115,46,-,-,3
+37,Ice Cream,120,"Milk, Sugar",100,40,-,Oasis (Sunday),2
+38,Blueberry Tart,180,"Blueberry, Wheat Flour, Sugar, Egg",125,50,-,Pierre - Mail,4
+39,Autumn's Bounty,350,"Yam, Pumpkin",220,88,"Foraging+2, Defense+2",-,2
+40,Pumpkin Soup,300,"Pumpkin, Milk",200,80,"Luck+2, Defense+2",Robin - Mail,2
+41,Super Meal,220,"Bok Choy, Cranberry, Hazelnut",160,64,"Max Energy+40, Speed+1",-,3
+42,Cranberry Sauce,175,"Cranberry, Sugar",125,50,Mining+2,-,2
+43,Stuffing,220,"Bread, Cranberry, Hazelnut",170,68,Defense+2,-,3
+44,Farmer's Lunch,150,"Omelet, Parsnip",200,80,Farming+3,-,2
+45,Survival Burger,150,"Bread, Cave Carrot, Eggplant",1,50,Foaging+3,-,3
+46,Dish O' The Sea,220,"Sardine (2), Hashbrowns",125,50,Fishing+3,-,2
+47,Miner's Treat,200,"Cave Carrot (2), Sugar, Milk",125,50,"Mining+3, Magnetism+32",-,3
+48,Roots Platter,100,"Cave Carrot, Winter Root",125,50,Comat+3,-,2
+49,Algae Soup,100,Green Algae (4),75,30,-,Clint - Mail,1
+50,Pale Broth,150,White Algae (2),125,50,-,-,1
+51,Plum Pudding,260,"Wild Plum (2), Wheat Flour, Sugar",175,70,-,Cooking Channel,3
+52,Artichoke Dip,210,"Artichoke, Milk",100,40,-,Cooking Channel,2
+53,Stir Fry,335,"Cave Carrot  , Common Mushroom, Kale, Oil",200,80,-,Cooking Channel,4
+54,Roasted Hazelnuts,270,Hazelnut (3),175,70,-,Cooking Channel,1
+55,Pumpkin Pie,385,"Pumpkin, Wheat Flour, Milk, Sugar",225,90,-,Cooking Channel,4
+56,Radish Salad,300,"Oil, Vinegar, Radish",200,80,-,Cooking Channel,3
+57,Fruit Salad,480,"Blueberry, Melon, Apricot",263,105,-,Cooking Channel,3
+58,Blackberry Cobbler,260,"Blackberry (2), Sugar, Wheat Flour",175,70,-,Cooking Channel,3
+59,Cranberry Candy,230,"Cranberry, Apple, Sugar",125,50,-,Cooking Channel,3
+60,Bruschetta,210,"Bread, Oil, Tomato",113,45,-,Cooking Channel,3
+61,Coleslaw,345,"Red Cabbage, Vinegar, Mayonnaise",213,85,-,Cooking Channel,3
+62,Fiddlehead Risotto,350,"Oil, Fiddlehead Fern, Garlic",225,90,-,Cooking Channel,3
+63,Poppyseed Muffin,250,"Poppy, Wheat Flour, Sugar",150,60,-,Cooking Channel,3
+64,Chowder,135,"Clam, Milk",225,90,Fishing+1,Willy - Mail,2
+65,Lobster Bisque,175,"Lobster, Milk",225,90,Fishing+3,-,2
+66,Escargot,125,"Snail, Garlic",225,90,Fishing+2,-,2
+67,Fish Stew,175,"Crayfish, Mussel, Periwinkle, Tomato",225,90,Fishing+3,-,4
+68,Maple Bar,300,"Maple Syrup, Sugar, Wheat Flour",225,90,-,Cooking Channel,3
+69,Crab Cakes,275,"Crab, Wheat Flour, Egg, Oil",225,90,-,Cooking Channel,4

@@ -1,0 +1,58 @@
+,Name,Type,Normal Sell Price,Silver Sell Price,Gold Sell Price
+0,Bream,Fish,45,56,67
+2,Bullhead,Fish,75,93,112
+3,Carp,Fish,30,37,45
+5,Chub,Fish,50,62,75
+6,Ghostfish,Fish,45,56,67
+7,Ice Pip,Fish,500,625,750
+8,Largemouth Bass,Fish,100,125,150
+10,Lava Eel,Fish,700,875,1
+11,Mutant Carp,Fish,1,1,1
+12,Sandfish,Fish,75,93,112
+13,Sardine,Fish,40,50,60
+15,Scorpion Carp,Fish,150,187,225
+18,Smallmouth Bass,Fish,50,62,75
+19,Stonefish,Fish,300,375,450
+20,Angler,Fish,900,1,1
+21,Salmon,Fish,75,93,112
+22,Albacore,Fish,75,93,112
+23,Lingcod,Fish,120,150,180
+24,Tiger Trout,Fish,150,187,225
+25,Walleye,Fish,105,131,157
+27,Anchovy,Fish,30,37,45
+28,Eel,Fish,85,106,127
+30,Catfish,Fish,200,250,300
+33,Woodskip,Fish,75,93,112
+41,Shad,Fish,60,75,90
+42,Super Cucumber,Fish,250,312,375
+43,Tilapia,Fish,75,93,112
+44,Red Snapper,Fish,50,62,75
+0,Amaranth,Crop,150,187,225
+1,Artichoke,Crop,160,200,240
+2,Beet,Crop,100,125,150
+5,Bok Choy,Crop,80,100,120
+7,Corn,Crop,50,62,75
+9,Cranberries,Crop,75,93,112
+10,Eggplant,Crop,60,75,90
+11,Fairy Rose,Crop,290,362,435
+13,Grape,Crop,80,100,120
+21,Pumpkin,Crop,320,400,480
+27,Sunflower,Crop,80,100,120
+28,Sweet Gem Berry,Crop,3000,3750,4500
+32,Yam,Crop,160,200,240
+6,Common Mushroom,Forage,40,50,60
+17,Wild Plum,Forage,80,100,120
+18,Hazelnut,Forage,90,112,135
+19,Blackberry,Forage,20,25,30
+20,Chanterelle,Forage,160,200,240
+25,Nautilus Shell,Forage,120,150,180
+26,Coral,Forage,80,100,120
+27,Sea Urchin,Forage,160,200,240
+28,Rainbow Shell,Forage,300,375,450
+29,Clam,Forage,50,62,75
+30,Mussel,Forage,30,38,45
+31,Oyster,Forage,40,50,60
+32,Purple Mushroom,Forage,250,312,375
+33,Cave Carrot,Forage,25,31,38
+34,Cactus Fruit,Forage,75,93,112
+35,Coconut,Forage,100,125,150

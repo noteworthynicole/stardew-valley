@@ -1,0 +1,45 @@
+,Name,Normal Sell Price,Silver Sell Price,Gold Sell Price,Season,Weather,Time,Location,Difficulty,Requirements,Behavior,Loves,Likes,Spring,Summer,Fall,Winter,River,Lake,Forest,The Mines,Sewers,Desert,Ocean,Type
+0,Bream,45,56,67,"Spring, Summer, Fall, Winter",Any,6:00 PM - 2:00 AM,River,35,-,Smooth,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+2,Bullhead,75,93,112,"Spring, Summer, Fall, Winter",Any,6:00 PM - 2:00 AM,Lake,46,-,Smooth,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+3,Carp,30,37,45,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,"Lake, Forest Pond, Sewers",15,-,Mixed,-,-,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Fish
+5,Chub,50,62,75,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,"River, Lake",35,-,Dart,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+6,Ghostfish,45,56,67,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,"The Mines 20F, The Mines 60F, The Mines 100F",50,-,Mixed,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Fish
+7,Ice Pip,500,625,750,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,The Mines 60F,85,level 5 fishing,Dart,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Fish
+8,Largemouth Bass,100,125,150,"Spring, Summer, Fall, Winter",Any,6:00 AM - 7:00 PM,Lake,50,-,Mixed,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+10,Lava Eel,700,875,1,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,The Mines 100F,90,level 7 fishing,Mixed,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Fish
+11,Mutant Carp,1,1,1,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,Sewers,80,-,Dart,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Fish
+12,Sandfish,75,93,112,"Spring, Summer, Fall, Winter",Any,6:00 AM - 10:00 PM,Desert,65,-,Mixed,Penny,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Fish
+13,Sardine,40,50,60,"Spring, Summer, Fall, Winter",Any,6:00 AM - 7:00 PM,Ocean,30,-,Dart,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+15,Scorpion Carp,150,187,225,"Spring, Summer, Fall, Winter",Any,6:00 AM - 10:00 PM,Desert,90,level 4 fishing,Dart,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Fish
+18,Smallmouth Bass,50,62,75,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,"River, Lake",28,-,Mixed,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+19,Stonefish,300,375,450,"Spring, Summer, Fall, Winter",Any,6:00 AM - 2:00 AM,The Mines 20F,65,level 3 fishing,Sinker,-,-,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Fish
+20,Angler,900,1,1,Fall,Any,6:00 AM - 2:00 AM,North-West of Joja (Sandy area),85,-,Smooth,-,-,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Fish
+21,Salmon,75,93,112,Fall,Any,6:00 AM - 7:00 PM,River,50,-,Mixed,-,-,No,No,Yes,No,Yes,Yes,No,No,No,No,No,Fish
+22,Albacore,75,93,112,"Fall, Winter",Any,"6:00 AM - 11:00 AM, 6:00 PM - 2:00 AM",Ocean,60,-,Mixed,-,-,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+23,Lingcod,120,150,180,"Fall, Winter",Any,6:00 AM - 2:00 AM,"River, Lake",85,-,Mixed,-,Willy,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+24,Tiger Trout,150,187,225,"Fall, Winter",Any,6:00 AM - 7:00 PM,"River, Lake",60,-,Dart,-,Willy,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,Fish
+25,Walleye,105,131,157,"Fall, Winter",Rain/Snow,8:00 PM - 2:00 AM,"River, Lake, Forest Pond",45,-,Smooth,-,-,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Fish
+26,Legend,11,14,16,Spring,Rain,6:00 AM - 10:00 PM,Mine Lake (Cast into log),110,level 10 fishing,Mixed,-,-,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Fish
+27,Anchovy,30,37,45,"Spring, Fall",Any,6:00 AM - 2:00 AM,Ocean,30,-,Dart,-,-,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Fish
+28,Eel,85,106,127,"Spring, Fall",Rain,Night,Ocean,70,-,Smooth,-,-,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Fish
+30,Catfish,200,250,300,"Spring, Fall, Winter",Rain/Snow,6:00 AM - 12:00 AM,"River, Forest Pond",75,-,Mixed,Willy,-,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Fish
+32,Sunfish,30,37,45,"Spring, Summer",Sunny,6:00 AM - 7:00 PM,River,30,-,Mixed,-,-,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Fish
+33,Woodskip,75,93,112,"Spring, Summer, Fall",Any,6:00 AM - 2:00 AM,Forest Pond,50,-,Mixed,-,-,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Fish
+34,Halibut,80,100,120,"Spring, Summer, Winter",Any,"6:00 AM - 11:00 AM, 7:00 PM - 2:00 AM",Ocean,50,-,Sinker,-,-,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+35,Herring,30,37,45,"Spring, Winter",Any,6:00 AM - 2:00 AM,Ocean,25,-,Dart,-,-,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+36,Crimsonfish,1,1,2,Summer,Any,6:00 AM - 12:00 PM,Ocean (East Pier),95,-,Mixed,-,-,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Fish
+37,Dorado,100,125,150,Summer,Any,6:00 AM - 7:00 PM,River,78,-,Mixed,-,-,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Fish
+38,Octopus,150,187,225,Summer,Any,6:00 AM - 1:00 PM,Ocean,95,-,Sinker,Willy,Elliott,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Fish
+39,Pufferfish,200,250,300,Summer,Sunny,12:00 PM - 4:00 PM,Ocean,80,-,Floater,Abigail,-,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Fish
+40,Rainbow Trout,65,81,97,Summer,Sunny,6:00 AM - 7:00 PM,"River, Mountain",45,-,Mixed,-,-,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Fish
+41,Shad,60,75,90,"Summer, Fall",Rain,9:00 AM - 2:00 AM,River,45,-,Smooth,-,-,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Fish
+42,Super Cucumber,250,312,375,"Summer, Fall",Any,6:00 PM - 2:00 AM,Ocean,80,-,Sinker,Wizard,-,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Fish
+43,Tilapia,75,93,112,"Summer, Fall",Any,6:00 AM - 2:00 PM,Ocean,50,-,Mixed,-,-,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Fish
+44,Red Snapper,50,62,75,"Summer, Fall, Winter",Rain/Snow,6:00 AM - 7:00 PM,Ocean,40,-,Mixed,-,-,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+45,Pike,100,125,150,"Summer, Winter",Any,6:00 AM - 2:00 AM,"River, Lake",60,-,Dart,-,-,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Fish
+46,Red Mullet,75,93,112,"Summer, Winter",Any,6:00 AM - 7:00 PM,Ocean,55,-,Smooth,-,-,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+47,Sturgeon,200,250,300,"Summer, Winter",Any,6:00 AM - 7:00 PM,Lake outside Mines,78,-,Mixed,Willy,-,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Fish
+48,Tuna,100,125,150,"Summer, Winter",Any,6:00 AM - 7:00 PM,Ocean,70,-,Smooth,-,-,No,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Fish
+49,Glacierfish,1,1,1,Winter,Sunny,6:00 AM - 10:00 PM,South end of Arrowhead Island in Forest,100,level 7 fishing,Mixed,-,-,No,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Fish
+50,Perch,55,68,82,Winter,Any,6:00 AM - 2:00 AM,"River, Lake",35,-,Mixed,-,-,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Fish
+51,Squid,80,100,120,Winter,Any,6:00 PM - 2:00 AM,Ocean,75,-,Sinker,-,Elliott,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Fish

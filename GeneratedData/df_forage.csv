@@ -1,0 +1,34 @@
+,Name,Normal Sell Price,Silver Sell Price,Gold Sell Price,Location,Season,# for recipes,Loves,Likes,Dislikes,Spring,Summer,Fall,Winter,Type
+0,Wild Horseradish,50,62,75,Pelican Town,Spring,0,Krobus,"Harvey, Leah, Linus",-,Yes,No,No,No,Forage
+1,Daffodil,30,37,45,Pelican Town,Spring,0,Sandy,"Caroline, Emily, Evelyn, George, Gus, Haley, Harvey, Jas, Kent, Leah, Linus, Pam, Pierre, Vincent",-,Yes,No,No,No,Forage
+2,Leek,60,75,90,Pelican Town,Spring,1,George,"Harvey, Leah, Linus, Penny",-,Yes,No,No,No,Forage
+3,Dandelion,40,50,60,Pelican Town,Spring,1,-,"Harvey, Leah, Linus, Penny, Pierre",-,Yes,No,No,No,Forage
+4,Spring Onion,8,10,12,Pelican Town,Spring,0,-,"Harvey, Leah, Linus",-,Yes,No,No,No,Forage
+5,Morel,150,187,225,Hidden Forest,Spring,1,-,"Harvey, Leah, Linus",-,Yes,No,No,No,Forage
+6,Common Mushroom,40,50,60,"Pelican Town, Hidden Forest","Spring, Fall",3,-,"Harvey, Leah, Linus",-,Yes,No,Yes,No,Forage
+10,Salmonberry,5,6,8,Bushes in season,Spring,0,-,"Demetrius, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",-,Yes,No,No,No,Forage
+11,Spice Berry,80,100,120,Pelican Town,Summer,0,-,"Demetrius, Elliott, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",-,No,Yes,No,No,Forage
+12,Grape,80,100,120,Pelican Town,Summer,0,Vincent,"Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",-,No,Yes,No,No,Forage
+13,Sweet Pea,50,62,75,Pelican Town,Summer,0,Sandy,-," Clint, George, Sebastian",No,Yes,No,No,Forage
+14,Red Mushroom,75,93,112,Hidden Forest,Summer,0,-,-,-,No,Yes,No,No,Forage
+16,Fiddlehead Fern,98,123,148,Hidden Forest,Summer,1,-,-," Abigail, Haley, Jas, Sam, Vincent",No,Yes,No,No,Forage
+17,Wild Plum,80,100,120,Pelican Town,Fall,2,-,"Elliott, Harvey, Leah, Linus",-,No,No,Yes,No,Forage
+18,Hazelnut,90,112,135,Pelican Town,Fall,4,-,"Harvey, Leah, Linus",-,No,No,Yes,No,Forage
+19,Blackberry,20,25,30,Pelican Town,Fall,2,-,"Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",-,No,No,Yes,No,Forage
+20,Chanterelle,160,200,240,Hidden Forest,Fall,0,-,"Harvey, Leah, Linus",-,No,No,Yes,No,Forage
+21,Winter Root,70,87,105,"Pelican Town, Hidden Forest",Winter,1,-,"Harvey, Leah, Linus",-,No,No,No,Yes,Forage
+22,Crystal Fruit,150,187,225,Pelican Town,Winter,0,-,"Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Linus, Pam, Robin, Sandy, Shane",-,No,No,No,Yes,Forage
+23,Snow Yam,100,125,150,Pelican Town,Winter,0,-,"Harvey, Leah, Linus",-,No,No,No,Yes,Forage
+24,Crocus,60,82,99,Pelican Town,Winter,0,Sandy,-," Clint, George, Sebastian",No,No,No,Yes,Forage
+25,Nautilus Shell,120,150,180,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+26,Coral,80,100,120,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+27,Sea Urchin,160,200,240,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+28,Rainbow Shell,300,375,450,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+29,Clam,50,62,75,Beach,"Spring, Summer, Fall, Winter",2,-,-,"Evelyn, Harvey",Yes,Yes,Yes,Yes,Forage
+30,Mussel,30,38,45,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+31,Oyster,40,50,60,Beach,"Spring, Summer, Fall, Winter",0,-,-,-,Yes,Yes,Yes,Yes,Forage
+32,Purple Mushroom,250,312,375,The Mines,"Spring, Summer, Fall, Winter",0,Wizard,"Demetrius, Harvey, Leah, Linus","Caroline, Dwarf, Elliott, Haley, Jas, Jodi, Krobus, Penny, Pierre, Sam, Sebastian, Shane, Vincent, Willy",Yes,Yes,Yes,Yes,Forage
+33,Cave Carrot,25,31,38,The Mines,"Spring, Summer, Fall, Winter",5,-,-,-,Yes,Yes,Yes,Yes,Forage
+34,Cactus Fruit,75,93,112,Desert,"Spring, Summer, Fall, Winter",0,"Linus, Pam, Sam","Demetrius, Elliott, Harvey, Jodi, Kent, Leah, Lewis, Robin, Sandy, Shane","Abigail, Haley, Jas, Vincent",Yes,Yes,Yes,Yes,Forage
+35,Coconut,100,125,150,Desert,"Spring, Summer, Fall, Winter",1,"Haley, Linus","Demetrius, Elliott, Harvey, Jas, Jodi, Kent, Leah, Lewis, Pam, Robin, Sandy, Shane, Vincent",-,Yes,Yes,Yes,Yes,Forage
+36,Holly,80,100,120,"Pelican Town, Hidden Forest",Winter,0,-,"Harvey, Leah, Linus",-,No,No,No,Yes,Forage

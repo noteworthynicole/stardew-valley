@@ -1,0 +1,17 @@
+Cat.,Plant,Seed Price,Sell Price,Sell Price,Sell Price,Days,Yield,Profit,Profit/d,Reharvest,Profit/Season,Harvests,Profit/Season/d,Place,Continuous
+Fruit,Ancient Fruit,0G,750G,937G,"1,125G",28,1,750G,-,8 Days,-,-,-,Unknown,Yes
+Fruit,Apple (Tree),"4,000G",100G,125G,150G,28,-,-,-,-,-,,-,General Store,Yes
+Fruit,Pomegranate (Tree),"6,000G",140G,175G,210G,28,-,-,-,-,-,,-,General Store,Yes
+Fruit,Cranberry,240G,130G,162G,195G,7,2,20G,2.86G,5 Days,"1,060G",5,37.86G,General Store,Yes
+Veg,Pumpkin,100G,320G,400G,480G,13,1,220G,16.92G,13 Days,440G,2,15.71G,General Store,No
+Fruit,Grape,60G,80G,100G,120G,10,1,20G,2.00G,3 Days,420G,6,15.00G,General Store,Yes
+Veg,Artichoke,30G,160G,200G,240G,8,1,130G,16.25G,8 Days,390G,3,13.93G,General Store,No
+Veg,Beet,20G,100G,125G,150G,6,1,80G,13.33G,6 Days,320G,4,11.43G,Desert Store,No
+Veg,Eggplant,20G,60G,75G,90G,5,1,40G,8.00G,5 Days,280G,5,10.00G,General Store,Yes
+Veg,Amaranth,70G,150G,187G,225G,7,1,80G,11.43G,7 Days,240G,3,8.57G,General Store,No
+Veg,Yam,60G,160G,200G,240G,10,1,100G,10.00G,10 Days,200G,2,7.14G,General Store,No
+Veg,Bok Choy,50G,80G,100G,120G,4,1,30G,7.50G,4 Days,180G,6,6.43G,General Store,No
+Flower,Fairy Rose,200G,290G,362G,435G,12,1,90G,7.50G,12 Days,180G,2,6.43G,General Store,No
+Flower,Sunflower,50G,80G,100G,120G,8,1,30G,3.75G,8 Days,90G,3,3.21G,General Store,No
+Veg,Corn,150G,50G,62G,75G,14,1,-100G,-7.14G,4 Days,50G,4,1.79G,General Store,Yes
+Fruit,Sweet Gem Berry,"1,000G","3,000G","3,750G","4,500G",24,1,"2,000G",83.33G,24 Days,"2,000G",1,71.43G,Gypsy Caravan,No
